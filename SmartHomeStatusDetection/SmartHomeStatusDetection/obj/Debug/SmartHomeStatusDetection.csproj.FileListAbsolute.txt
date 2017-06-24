@@ -1,0 +1,5 @@
+C:\Users\hackathon\Desktop\Project\SmartHomeStatusDetection\SmartHomeStatusDetection\bin\Debug\SmartHomeStatusDetection.dll
+C:\Users\hackathon\Desktop\Project\SmartHomeStatusDetection\SmartHomeStatusDetection\bin\Debug\SmartHomeStatusDetection.pdb
+C:\Users\hackathon\Desktop\Project\SmartHomeStatusDetection\SmartHomeStatusDetection\obj\Debug\SmartHomeStatusDetection.csprojResolveAssemblyReference.cache
+C:\Users\hackathon\Desktop\Project\SmartHomeStatusDetection\SmartHomeStatusDetection\obj\Debug\SmartHomeStatusDetection.dll
+C:\Users\hackathon\Desktop\Project\SmartHomeStatusDetection\SmartHomeStatusDetection\obj\Debug\SmartHomeStatusDetection.pdb
